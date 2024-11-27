@@ -1,3 +1,5 @@
+Update 2024-11-27 - tests_12_4_1.py - там поправка - убрал finally и внес под try self.assertEqual  в test_walk и test_run
+
 Домашнее задание по теме "Логирование" - файлы:
 rt_with_exceptions.py
 tests_12_4.py
